@@ -40,6 +40,7 @@ ol {
   inline-size: 1200px;
   block-size: 100%;
 }
+
 /*MAIN*/
 .content {
   display: flex;
