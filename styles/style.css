@@ -41,7 +41,7 @@ ol {
   block-size: 100%;
 }
 
-/*MAIN*/
+/* MAIN */
 .content {
   display: flex;
   justify-content: space-between;
@@ -50,7 +50,7 @@ ol {
   width: 1140px;
 }
 
-/*RESULT*/
+/* RESULT */
 .result__video-container {
   position: relative;
   width: 711px;
@@ -192,7 +192,7 @@ ol {
   padding: 6px 0;
 }
 
-/*CONTENT DETAILS*/
+/* CONTENT DETAILS */
 .content__details {
   width: 100%;
   height: 100%;
