@@ -1,1 +1,0 @@
-https://github.com/Kate8977/posmotri-v-okno-fd
